@@ -11,4 +11,13 @@ body {
 	margin-top: 50px;
 }
 
+.navbar-header > a {
+	float: left;
+}
+
+#like-button {
+	margin-top: 12px;
+	float: right;
+}
+
 I'll make it responsive later...
