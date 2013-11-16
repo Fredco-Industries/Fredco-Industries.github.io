@@ -29,6 +29,11 @@ background-size: 100%;
 	height: 60px;
 	margin-left:auto;
 	margin-right:auto;
+	border-radius: 5px;
+}
+
+#server-1 {
+	background-image: url(https://mceu.envioushost.com/index.php?r=status/2872.png);
 }
 
 I'll make it responsive later...
