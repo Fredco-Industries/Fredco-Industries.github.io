@@ -24,4 +24,11 @@ background-size: 100%;
 	float: right;
 }
 
+.server-status {
+	width: 468px;
+	height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
 I'll make it responsive later...
