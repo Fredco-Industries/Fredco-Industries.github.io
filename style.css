@@ -47,4 +47,12 @@ background-size: 100%;
 	border-radius: 2px;
 }
 
-#service-alert {margin-bottom:50px width:210px; font-size:35; height:200px; background-color:yellow; color:red; border-style:dotted}
+#service-alert {
+		margin-bottom:50px 
+		width:210px; 
+		font-size:35; 
+		height:90px; 
+		background-color:yellow; 
+		color:red; 
+		border-style:dotted
+}
