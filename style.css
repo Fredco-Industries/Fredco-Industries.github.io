@@ -47,4 +47,4 @@ background-size: 100%;
 	border-radius: 2px;
 }
 
-nav.service-alert {down-margin:50px width:220px; font-size:35; length:60px; background-color:yellow; color:red; border-style:solid}
+#service-alert {down-margin:50px width:220px; font-size:35; length:60px; background-color:yellow; color:red; border-style:solid}
